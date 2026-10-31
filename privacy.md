@@ -44,6 +44,4 @@ visitor information, including IP addresses, under its privacy statement.
 
 ## Contact
 
-For privacy questions, contact: 你的联系邮箱
-
-[Back to application website](./)
+For privacy questions, contact: 1049203795@qq.com
