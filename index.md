@@ -19,3 +19,5 @@ KennyGallery is an independent application and is not affiliated
 with or endorsed by Pinterest.
 
 Contact: 1049203795@qq.com
+
+   [Privacy Policy](privacy.html)
